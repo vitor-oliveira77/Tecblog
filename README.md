@@ -5,7 +5,7 @@ Site de notícias no estilo blog com blocos de conteúdo na lateral. Fiz Utiliza
 
 <h1 align="center">
 <br>
-  <img src="https://scontent.fgru4-1.fna.fbcdn.net/v/t39.30808-6/313424793_2296183140536299_8007605085507218861_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=fynYhIVGBPQAX9eZeEl&_nc_ht=scontent.fgru4-1.fna&oh=00_AfDZNTvmkidXas5yr8eqJiOU8TGQEyv5ZIYvrGlInUTbrQ&oe=63665266" alt="zoologico-project" width="120">
+  <img src="![tecblog-logo](https://user-images.githubusercontent.com/117206734/201173104-b7bcb4c3-0376-4162-bc2b-2302def5ba15.png)" alt="zoologico-project" width="120">
 <br>
 <br>
 Zoológico de Guarulhos
